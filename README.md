@@ -1,0 +1,1 @@
+This chatbot mimics basic AI by using predefined logic rules (if-else) to interpret user input and provide relevant crypto investment advice. It analyzes keyword patterns to recommend coins based on trends or sustainability. While simple, it demonstrates how decision-making can be automated using structured data and logic.
